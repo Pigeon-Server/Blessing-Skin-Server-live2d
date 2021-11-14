@@ -1,15 +1,12 @@
 {
-  "name": "",
-  "title": "",
-  "version": "0.1.0",
-  "description": "",
-  "author": "",
-  "url": "",
-  "namespace": "",
-  "require": {
-    "blessing-skin-server": "^5.0.0"
-  },
-  "enchants": {
-    "config": "Configuration"
-  }
+    "name": "bs-live2d",
+    "title": "Blessing Skin Server live2d",
+    "version": "1.0",
+    "description": "已实现：Live2D、鼠标特效",
+    "author": "fsj",
+    "url": "https://github.com/hhhfsj/",
+    "namespace": "bs-live2d",
+    "require": {
+        "blessing-skin-server": "*"
+    }
 }
