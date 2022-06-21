@@ -1,4 +1,4 @@
-# Live2D.js for Blessing Skin
+# Live2D.js load Blessing Skin
 
 可在Blessing Skin Server内加载live2d
 
